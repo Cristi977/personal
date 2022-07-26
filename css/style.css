@@ -3,13 +3,13 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Consolas";
   overflow-x: hidden;
 }
 
 body {
   background-color: #1F1D29;
   color: white;
+  font-family: 'Roboto Mono', monospace;
 }
 
 .first-viewport {
